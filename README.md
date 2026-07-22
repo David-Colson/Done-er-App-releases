@@ -14,7 +14,11 @@ user profile; the only network access the app ever makes is checking this page f
 3. That's it. The app updates itself automatically when a new version is published here
    (downloaded in the background, installed the next time you close the app).
 
-Also, consider supporting me on [Patreon](https://patreon.com/u68298462?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+Also, consider supporting me on [Patreon](https://patreon.com/u68298462?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
 A donation of $3 may not seem like much, but every contribution helps keep the app running. 
 
 *This repository holds installers only.*
+
+## Support Us!
+Consider supporting us on [Patreon](https://patreon.com/u68298462?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
+A donation of $3 may not seem like much, but every contribution helps keep the app running. 😄
