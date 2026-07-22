@@ -1,4 +1,4 @@
-# Daily Report — installers
+# Done-er Daily Report — installers
 
 Windows installers for **Daily Report**, a local, private standup / bullet-journal tracker.
 Your data never leaves your machine — everything lives in a local database under your own
